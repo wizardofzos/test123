@@ -1,0 +1,4 @@
+/* rexx */                                                              00001001
+a = 'a b c d e'                                                         00010002
+say subword(a,1,3)                                                      00020000
+say subword(a,3)                                                        00030000

@@ -1,0 +1,6 @@
+/* REXX */                                                              00010000
+a = "Automatic merge went well; stopped before committing"              00020000
+c = "Other jibberish"                                                   00031000
+parse var a "Automatic merge went well; stopped" rest                   00040000
+j = 102                                                                 00041001
+parse var c "Automatic merge went well; stopped" rest                   00050001
