@@ -8,7 +8,7 @@
   |                                                            |
   | Syntax:   %Githelp                                         |
   |                                                            |
-  | Usage Notes:                                               |
+  | Usage Notes:    123123132                                  |
   |       1. git must be installed on the local OMVS           |
   |          environment                                       |
   |       2. The user must have OMVS capabilities              |
